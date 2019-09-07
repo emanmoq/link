@@ -1,0 +1,18 @@
+.hero{
+    padding-top:50px;
+}
+img{
+    width:100%;
+}
+.siteLink{
+    font-size:22px;
+    width:200px !important;
+    margin-top:75px;
+}
+.siteLink:hover{
+    color:white !important;
+}
+.underline{
+    margin-bottom:50px;
+    font-size:48px;
+}
